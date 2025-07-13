@@ -1,0 +1,25 @@
+{
+  "name": "factory-payments-demo",
+  "version": "1.0.0",
+  "description": "Payment system with multiple providers using Factory patterns",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinasokyrko/neo-design-patterns-hw-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinasokyrko/neo-design-patterns-hw-03/issues"
+  },
+  "homepage": "https://github.com/christinasokyrko/neo-design-patterns-hw-03#readme"
+}
